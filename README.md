@@ -23,7 +23,7 @@
 
 <h3>Introdução</h3>
 <p>
-Olá, nós da "nome aqui" faremos uma breve descrição de nosso projeto. Ele consiste em um medidor de pH feito com Arduino. O intuito do produto é medir valores armazenados de um sensor de pH e mostrar a média dos valores, de maneira formatada no display.
+Olá, nós da BluepH faremos uma breve descrição de nosso projeto. Ele consiste em um medidor de pH feito com Arduino. O intuito do produto é medir valores armazenados de um sensor de pH e mostrar a média dos valores, de maneira formatada no display.
 
 Além disso, se o dispositivo detectar uma grande variação do pH, ele marcará na memória EEPROM do Arduino o horário exato e a magnitude da variação. O display também mostrará a porcentagem em relação ao pH, indicando se o pH está no nível ideal com um símbolo de check, e o LED verde ficará aceso.
 
